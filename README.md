@@ -1,5 +1,5 @@
-**Clone and Setup Instructions:**
-To clone and set up this Next.js project locally, follow these steps:
+**Setup Instructions:**
+To set up this Next.js project locally, follow these steps:
 
 1. Install the project dependencies using npm:
 
